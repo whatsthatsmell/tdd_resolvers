@@ -1,0 +1,14 @@
+{
+  "name": "tdd_resolvers",
+  "version": "1.0.0",
+  "description": "Unit Testing resolvers for code_smell channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Code Smell",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
