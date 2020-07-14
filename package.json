@@ -10,5 +10,9 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "graphql": "^15.3.0",
+    "graphql-scalars": "^1.2.2"
   }
 }
