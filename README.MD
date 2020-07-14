@@ -1,3 +1,3 @@
-#Unit Testing GraphQL Resolvers in Node.js with TDD
+# Unit Testing GraphQL Resolvers in Node.js with TDD
 
 **Video Link:**
