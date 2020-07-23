@@ -1,12 +1,12 @@
 const gql = require('graphql-tag')
 
 module.exports = gql`
-type TVShow {
+type Player {
   name: String
-  genre: String
+  position: String
 }
 
 type Query {
-  shows: [TVShow]
+  players: [Player]
 }
 `

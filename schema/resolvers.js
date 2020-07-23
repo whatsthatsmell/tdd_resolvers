@@ -1,6 +1,6 @@
-// const shows = require('./dataSource')
-// module.exports = {
-//   Query: {
-//     shows: () => shows
-//   }
-// }
+const players = require('./dataSource')
+module.exports = {
+  Query: {
+    players: () => players
+  }
+}

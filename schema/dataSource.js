@@ -1,10 +1,11 @@
+// https://statsapi.mlb.com/api/v1/teams/119/roster
 module.exports = [
   {
-    name: 'Superstore',
-    genre: 'comedy'
+    name: 'Joel Palmer',
+    position: 'Pitcher'
   },
   {
-    name: 'Mom',
-    genre: 'comedy'
+    name: 'Liam Palmer',
+    position: 'Second Base'
   }
 ]
