@@ -6,4 +6,4 @@ server.listen().then(({ url }) => {
   console.log('A running server at: ' + url)
 })
 
-// curl -s 'http://localhost:4000/' -H 'Content-Type: application/json' -d '{"query": "{ shows {name, genre}}"}' | jq
+// curl -s 'http://localhost:4000/' -H 'Content-Type: application/json' -d '{"query": "{ players { name, position } }"}' | jq
