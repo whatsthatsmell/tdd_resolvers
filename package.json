@@ -8,7 +8,7 @@
   "author": "Code Smell",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.4.0",
+    "eslint": "^7.17.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jest": "^23.18.0",
