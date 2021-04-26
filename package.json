@@ -21,6 +21,6 @@
     "apollo-server": "^2.15.1",
     "got": "^11.5.1",
     "graphql": "^15.3.0",
-    "graphql-scalars": "^1.2.2"
+    "graphql-scalars": "^1.9.1"
   }
 }
